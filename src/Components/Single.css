@@ -1,0 +1,53 @@
+.display{
+    height: inherit;
+    width: 80vw;
+    margin: 20px auto;
+   /* border: 2px solid red; */
+}
+span{
+    margin: 3px;
+    font-size: 15px;
+}
+.btn{
+display: block;
+margin: 10px auto;
+}
+.data-name{
+    font-size: 25px;
+    text-align: center;
+    margin: 9px;
+    margin-bottom: 50px;
+}
+.clocktail-data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.image{
+    height: 400px;
+    width: 400px;
+    box-shadow: 1px 3px 9px black;
+}
+.data-span{
+    background: rgb(180, 245, 180);
+    color: darkgreen;
+    padding: 8px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin: 3px;
+    margin-bottom: 6px;
+    font-weight: bold;
+}
+.data{
+    font-size: 15px;
+    margin-bottom: 15px;
+    
+    
+}
+.all-data{
+    margin-left: 35px;
+    /* margin-top: 6px; */
+    font-family: 'Merriweather', serif;
+}
+
