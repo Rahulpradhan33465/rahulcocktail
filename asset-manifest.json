@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rahulcocktail/static/css/main.fbb04fb3.chunk.css",
+    "main.js": "/rahulcocktail/static/js/main.96333c96.chunk.js",
+    "main.js.map": "/rahulcocktail/static/js/main.96333c96.chunk.js.map",
+    "runtime-main.js": "/rahulcocktail/static/js/runtime-main.d16c2499.js",
+    "runtime-main.js.map": "/rahulcocktail/static/js/runtime-main.d16c2499.js.map",
+    "static/js/2.8c064d25.chunk.js": "/rahulcocktail/static/js/2.8c064d25.chunk.js",
+    "static/js/2.8c064d25.chunk.js.map": "/rahulcocktail/static/js/2.8c064d25.chunk.js.map",
+    "index.html": "/rahulcocktail/index.html",
+    "static/css/main.fbb04fb3.chunk.css.map": "/rahulcocktail/static/css/main.fbb04fb3.chunk.css.map",
+    "static/js/2.8c064d25.chunk.js.LICENSE.txt": "/rahulcocktail/static/js/2.8c064d25.chunk.js.LICENSE.txt",
+    "static/media/myLogo.5592453d.svg": "/rahulcocktail/static/media/myLogo.5592453d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d16c2499.js",
+    "static/js/2.8c064d25.chunk.js",
+    "static/css/main.fbb04fb3.chunk.css",
+    "static/js/main.96333c96.chunk.js"
+  ]
+}
